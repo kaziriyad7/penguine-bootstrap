@@ -31,3 +31,50 @@ span{
     height: 700px;
     background-color:wheat;
 }
+.image{
+    height: 200px;
+    width: 200px;
+}
+
+
+.man-jacket .card-img,
+.woman-jacket .card-img {
+    background-color: #ccc;
+    width: 90%;
+    margin: 5%;
+    border-radius: 20px;
+}
+
+.man-jacket .card-img img,
+.woman-jacket .card-img img,{
+    height: 450px;
+}
+
+
+.man-jacket .cart-btn,
+.woman-jacket .cart-btn {
+    margin-top: 0px;
+}
+
+.man-jacket .card,
+.woman-jacket .card{
+    border-radius: 10px;
+    border: none;
+}
+
+/* Card Feature */
+
+.card-feature {
+    margin-top: 90px;
+}
+
+.card-feature .card {
+    border: none;
+    border-radius: 10px;
+}
+
+.card-feature-image {
+    width: 120px;
+    height: 120px;
+    margin-right: 20px;
+}
